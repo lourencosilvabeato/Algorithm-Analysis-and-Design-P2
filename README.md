@@ -131,12 +131,3 @@ Disaster
 | N | 1 – 10 | Corridor width (number of chosen columns) |
 | B | 1 – 10 060 | Number of magic beams |
 | l | 1 – 20 | Length of each beam (cells occupied) |
-
-## Authors
-
-- **Lourenço Beato** — 68461
-- **Tomás Sousa** — 68302
-
----
-
-*NOVA FCT · Análise e Desenho de Algoritmos · 2025/2026*
