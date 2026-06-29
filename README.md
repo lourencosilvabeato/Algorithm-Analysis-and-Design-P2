@@ -140,3 +140,4 @@ Disaster
 ---
 
 *NOVA FCT · Análise e Desenho de Algoritmos · 2025/2026*
+
